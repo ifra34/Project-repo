@@ -1,2 +1,2 @@
 # Project-repo
-A simple responsive website built using HTML, CSS, and basic JavaScript to practice front-end development skills
+AI automation student documentig projects, experiments , and learning progress in autoamtion.  i am also practicing ai tools and digital workflows along with ai automation. 
